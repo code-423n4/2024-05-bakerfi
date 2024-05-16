@@ -1,13 +1,9 @@
 
 # BakerFi audit details
-- Total Prize Pool: $28500 in USDC
-  - HM awards: $23040 in USDC
-  - (remove this line if there is no Analysis pool) Analysis awards: XXX XXX USDC (Notion: Analysis pool)
+- Total Prize Pool: $28,500 in USDC
+  - HM awards: $23,040 in USDC
   - QA awards: $960 in USDC
-  - (remove this line if there is no Bot race) Bot Race awards: XXX XXX USDC (Notion: Bot Race pool)
- 
   - Judge awards: $4000 in USDC
-  - Lookout awards: XXX XXX USDC (Notion: Sum of Pre-sort fee + Pre-sort early bonus)
   - Scout awards: $500 in USDC
   - (this line can be removed if there is no mitigation) Mitigation Review: XXX XXX USDC (*Opportunity goes to top 3 backstage wardens based on placement in this audit who RSVP.*)
 - Join [C4 Discord](https://discord.gg/code4rena) to register
