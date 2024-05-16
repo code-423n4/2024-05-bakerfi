@@ -5,7 +5,6 @@
   - QA awards: $960 in USDC
   - Judge awards: $4,000 in USDC
   - Scout awards: $500 in USDC
-  - (this line can be removed if there is no mitigation) Mitigation Review: XXX XXX USDC (*Opportunity goes to top 3 backstage wardens based on placement in this audit who RSVP.*)
 - Join [C4 Discord](https://discord.gg/code4rena) to register
 - Submit findings [using the C4 form](https://code4rena.com/contests/2024-05-bakerfi/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
@@ -60,7 +59,7 @@ Recursive ETH Staking made easy, amplify your yields with recursive based strate
 - **Previous audits:** https://github.com/code-423n4/2024-05-bakerfi/blob/main/audits/audit-creed-2024-05-10.pdf
 - **Documentation:** https://github.com/code-423n4/2024-05-bakerfi/tree/main/doc
 - **Website:** https://bakerfi.xyz/
-- **X/Twitter:** https://twitter.com/bakerfi_
+- **X/Twitter:** [https://twitter.com/bakerfi_](https://twitter.com/bakerfi_)
 - **Discord:** https://dub.sh/bakerfi-discord
 
 ---
