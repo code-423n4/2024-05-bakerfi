@@ -3,7 +3,7 @@
 - Total Prize Pool: $28,500 in USDC
   - HM awards: $23,040 in USDC
   - QA awards: $960 in USDC
-  - Judge awards: $4000 in USDC
+  - Judge awards: $4,000 in USDC
   - Scout awards: $500 in USDC
   - (this line can be removed if there is no mitigation) Mitigation Review: XXX XXX USDC (*Opportunity goes to top 3 backstage wardens based on placement in this audit who RSVP.*)
 - Join [C4 Discord](https://discord.gg/code4rena) to register
