@@ -237,8 +237,9 @@ None
 
 | Role                                | Description                       |
 | --------------------------------------- | ---------------------------- |
-| Governor                          |                |
-| User                             |                       |
+| Governor                          | The entity that is able to update the proxy implementations and change the strategy parameters, and global settings. In the future the governor is going to be the protocol dao.               |
+| User                             |  Able to deposit, withdraw and call the liquidation protection mechanism (rebalance).                     |
+
 
 ## Any novel or unique curve logic or mathematical models implemented in the contracts:
 
