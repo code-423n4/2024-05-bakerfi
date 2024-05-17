@@ -39,7 +39,7 @@ BakerFi stands out as a unique product with a distinctive approach to the market
 
 Firstly, it simplifies the intricate configurations essential for deploying DeFi strategies, abstracting them from the end user and ensuring ease of use, even for those with limited experience in DeFi.
 
-Orchestrating a lucrative DeFi strategy requires some deep research and some level of expertise to make it sucess.
+Orchestrating a lucrative DeFi strategy requires some deep research and some level of expertise to make it successful.
 
 Secondly, it deploys strategies using global configurations, controlled by protocol, thereby reducing user risks and minimizing their exposure to market turmoils and black-swan scenarios. 🦢
 
